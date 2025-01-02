@@ -32,9 +32,9 @@ Options:
     -v, --verbose Enable verbose output
     --timeout TIMEOUT Request timeout in seconds
   ## Example
-    ```bash
+   
     python sqli_scanner.py -u http://example.com -p payloads.txt
-     ```
+     
    Scan URLs from a file:
 
      python sqli_scanner.py -f urls.txt -p payloads.txt -t 4 -v

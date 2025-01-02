@@ -2,6 +2,9 @@
 
 An advanced SQL Injection Scanner that allows you to test URLs for SQL injection vulnerabilities using different payloads.
 
+![SQLI Tool Logo](SQLI.png)
+
+
 ## Features
 - Scan a single URL or a list of URLs from a file.
 - Customize the number of threads for faster scanning.
@@ -38,11 +41,6 @@ Options:
    Scan URLs from a file:
 
      python sqli_scanner.py -f urls.txt -p payloads.txt -t 4 -v
-
-
-
-## TEST
-![SQLI Tool Logo](SQLI.png)
 
 
 License

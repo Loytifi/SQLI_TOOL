@@ -67,7 +67,7 @@ Options:
 
      python sqli_scanner.py -f urls.txt -p payloads.txt -t 4 -v
 
-     License
+License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 

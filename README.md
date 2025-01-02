@@ -39,6 +39,12 @@ Options:
 
      python sqli_scanner.py -f urls.txt -p payloads.txt -t 4 -v
 
+
+
+## TEST
+![SQLI Tool Logo](SQLI.png)
+
+
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.

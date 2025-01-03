@@ -36,7 +36,7 @@ Options:
     --timeout TIMEOUT Request timeout in seconds
   ## Example
    
-    python sqli_scanner.py -u http://example.com -p payloads.txt
+    python sqli_scanner.py -u http://testphp.vulnweb.com/listproducts.php?cat= -p payloads.txt
      
    Scan URLs from a file:
 
